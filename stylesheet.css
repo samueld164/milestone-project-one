@@ -59,10 +59,10 @@ h1, h2 {
 
 .contact-section {
     text-align: center;
-    background-color: rgb(224, 255, 226)
+    background-color: rgb(224, 255, 226);
     padding: 0;
     border-radius: 0;
-  }
+}
   
   .icon img {
     width: 50px;
