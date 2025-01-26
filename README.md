@@ -36,5 +36,53 @@ Advanced potential feature:
 * Decide on key sections: About, Projects, Experience, Contact.
 * Prioritise showcase your best work
 
-#### Wireframe and Visual Architecture
+#### Wireframe and Visual Design
 ![image alt](https://github.com/samueld164/milestone-project-one/blob/271d9de80ddd3590675bd3a00b25130556ce4a2f/wireframes.png)
+The main purpose of the wesbite is to showcase the content and sources. Meaning the website I have opted for, visually, is simplistic with soft pastel colours, and clear sections relevant to the purpose of the portfolio website. 
+
+Each section will be linked via an anchor, eliminating the creation of multiple tabs when accessing different sections. This will ensure a smoother user experience, delivering the sections in which the audience will want to access with ease.
+
+The website will also be responsive, so that it can be easily accessed via web browser, tablet and mobile devices, without making the formatting too confusing for the viewer.
+
+The colour palette will have a white background with pastel greens to highlight specific sections. The font will Poppins that is easy on the eye throughout all font sizes. 
+
+## Testing & Bug Issues
+
+#### HTML Checker
+
+The first testing I did for the website was via Nu HTML Checker (source: https://validator.w3.org/nu/)
+
+Two checks were made where two errors were found as per the images below.
+
+![image alt](https://github.com/samueld164/milestone-project-one/blob/0dd12c98802000d92d0581d0ed1dc34d722cb25e/nu%20html%20checker%201.png)
+![image alt](https://github.com/samueld164/milestone-project-one/blob/1b7c8dab6fb42a2b9dc65bcf882605dc74089aee/nu%20html%20checker%201.1.png)
+
+To clarify, after the first error that was fixed, I added more code to the index.html in the about section, to add the button for the CV file. After that, the second error was found.
+
+![image alt](https://github.com/samueld164/milestone-project-one/blob/1b7c8dab6fb42a2b9dc65bcf882605dc74089aee/nu%20html%20checker%203.png)
+
+After editing the second error, the check came back complete.
+
+#### CSS Checker
+
+With the CSS validator (source: https://jigsaw.w3.org/css-validator/), multiple errors were found and corrected before deploying the website.
+
+![image alt](https://github.com/samueld164/milestone-project-one/blob/1b7c8dab6fb42a2b9dc65bcf882605dc74089aee/w3c%20validation%201.png)
+![imahe alt](https://github.com/samueld164/milestone-project-one/blob/1b7c8dab6fb42a2b9dc65bcf882605dc74089aee/w3c%20validation%202.png)
+
+## Credits
+
+The navigation bar was originally sourced from Bootstrapp - https://getbootstrap.com/docs/5.3/components/navbar/, which was then edited to comply to the custom layout for this project and can be seen on the indext.html.
+
+The rest of the coding was learnt from the training modules via Coding Institute.
+
+## Media
+
+* The Header image used on the website was sourced from Unsplash, credit to Leone Venter - https://unsplash.com/photos/magic-keyboard-beside-mug-and-click-pen-VieM9BdZKFo
+* The image used for Project: Fetch Cambridge was sourced from Unsplash, credit to Alvan Nee - https://unsplash.com/photos/two-brown-and-white-dogs-running-dirt-road-during-daytime-T-0EW-SEbsE
+* The image use for Project: Bitesize Bakehouse was sourced from the clients website, 6th image in carousel - https://www.bitesizebakehouse.com/product-page/great-taste-award-2022-marshmallow-box
+* The email icon used in the Contact section was sourced from Flaticon - https://www.flaticon.com/free-icon/email_542689?term=email&page=1&position=2&origin=tag&related_id=542689
+* The content used for the projects, Fetch Cambridge and Bitesize Bakehouse was taken from their website introductions, https://fetchcambridge.co.uk/, https://www.bitesizebakehouse.com/
+* The content used elsewhere on the website was create by myself, Samuel Douglas
+
+
