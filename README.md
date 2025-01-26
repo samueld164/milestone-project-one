@@ -10,7 +10,7 @@ As per the requirements set for this Milestone Project, I have to ensure I adher
 5. Attribution: Maintain a clear separation between code written by you and code from external sources. Attribute any code from external sources to its source via comments above the code and in the README.
 6. Deployment: Deploy final version of your code to a hosting platform such as GitHub Pages.
 
-# H3 Project Example 3: Build a personal portfolio site
+## Project Example 3: Build a personal portfolio site
 
 External user's goal:
 * The site's users are recruiters considering to hire the potential applicant
@@ -26,10 +26,15 @@ Potential features to include:
 Advanced potential feature:
 * Showcase portfolio or projects so far
 
-# H3 UX Design Process
+## UX Design Process
 
-**STRATEGY**
+#### Goals and Audience
+* Identify the purpose of the portfolio (e.g. showcase skills, projects, etc.)
+* Understand your target audience (e.g. recruiters, potential clients, etc.)
 
-**Objective:** To create an enganging, professional, and easy-to-navigate online portfolio site that highlights my skills, experience and unique value proposition, attracting recruiters and employers to approach me for potential job opportunities. 
-The primary audience will be recruiters, hiring managers and potential employers, that need quick access to my qualifications and skills, whilst providing a visually appealing site and easy-to-navigate content. 
+#### Content Strategy
+* Decide on key sections: About, Projects, Experience, Contact.
+* Prioritise showcase your best work
 
+#### Wireframe and Visual Architecture
+![image alt](https://github.com/samueld164/milestone-project-one/blob/271d9de80ddd3590675bd3a00b25130556ce4a2f/wireframes.png)
