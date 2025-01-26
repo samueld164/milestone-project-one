@@ -1,4 +1,4 @@
-# H1 Milestone Project One: Personal Portfolio Website
+# Milestone Project One: Personal Portfolio Website
 
 For my first Milestone Project, I have opted to create a personal portfolio website, showcasing the skills that I have learnt throughout the initial modules. The aim is to build a simple, yet informative website, which can be developed over time as more projects that I create can be shown. 
 
@@ -25,4 +25,11 @@ Potential features to include:
 
 Advanced potential feature:
 * Showcase portfolio or projects so far
+
+# H3 UX Design Process
+
+**STRATEGY**
+
+**Objective:** To create an enganging, professional, and easy-to-navigate online portfolio site that highlights my skills, experience and unique value proposition, attracting recruiters and employers to approach me for potential job opportunities. 
+The primary audience will be recruiters, hiring managers and potential employers, that need quick access to my qualifications and skills, whilst providing a visually appealing site and easy-to-navigate content. 
 
